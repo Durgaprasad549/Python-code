@@ -1,4 +1,4 @@
-'''s With a single integer as the input, generate the following until a = x [series of numbers as shown in below examples]
+'''Program-2: With a single integer as the input, generate the following until a = x [series of numbers as shown in below examples]
 
 Output: (examples)
 
